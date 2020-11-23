@@ -1,0 +1,6 @@
+module Pods_SkeletonViewExample {
+  umbrella header "Pods-SkeletonViewExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
